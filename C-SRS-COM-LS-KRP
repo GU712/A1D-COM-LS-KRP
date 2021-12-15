@@ -13,13 +13,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]Monk: Um Detetive Diferente (2002-2009)[/B][/COLOR]</name>
-<externallink>https://www.themoviedb.org/t/p/original/m3gVwBcBN9VcEJPLxetTJhOPZij.jpg</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/be6mDIMv7cg8duWkcYVnTB8rphO.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/A1D-COM-LS-KRP/main/C1-SRS-Monk-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/m3gVwBcBN9VcEJPLxetTJhOPZij.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ltNvWpUaSDuQIgdqcYgNnSL72sW.jpg</fanart>
 <info>Assista aqui os episodios da série Monk: Um Detetive Diferente. 
 [COLOR orange][B]COMÉDIA[/B][/COLOR]
 [COLOR orange][B]08 TEMPS - 125 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 2002 a 2009[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/A1A-ACA-LS-KRP/main/C2-SRS-24.Horas-KRP</externallink>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui os episodios da série NOMEDASERIE. 
+[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]00 TEMPS - 00 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
