@@ -9,16 +9,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Chaves[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sVeLU8o3qA5zvAqK00X5LvRzygg.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/5LDbPGp5a5qiFqtA0tsG4njPsqt.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>COMÉDIA</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[B][COLOR white]Chaves - Especial de Natal (2011)[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=bycvqsG8k6g$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Chaves - Especial de Natal[/B][/COLOR]</link>
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/4-CMD/Chaves/ESPC/LS-Chaves.Especial.de.Natal.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Chaves - Especial de Natal - DUB[/B][/COLOR]</link>
@@ -28,6 +18,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>COMÉDIA</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Chaves[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER></link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sVeLU8o3qA5zvAqK00X5LvRzygg.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5LDbPGp5a5qiFqtA0tsG4njPsqt.jpg</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Chaves (1973) - T01 - HD DUB[/B][/COLOR]</title>
